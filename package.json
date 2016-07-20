@@ -1,0 +1,31 @@
+{
+  "name": "hyperterm-vmc-dark",
+  "version": "0.1.0",
+  "description": "VMC Dark HyperTerm theme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vemec/hyperterm-vmc-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vemec/hyperterm-vmc-dark/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vemec/hyperterm-vmc-dark/blob/master/LICENSE-MIT"
+    }
+  ],
+  "author": {
+    "name": "Diego Ghersi",
+    "email": "diego@ghersi.com.ar",
+    "url": "www.ghersi.com.ar"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
